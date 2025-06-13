@@ -13,6 +13,7 @@ OpenAI API key (OPENAI_API_KEY)
 Firecrawl API key (FIRECRAWL_API_KEY)
 
 Installation:
+
 -Clone this repository:
 git clone https://github.com/Hoovie105/Web-scraper.git
 cd Web-scraper
@@ -20,6 +21,7 @@ cd Web-scraper
 pip install -r requirements.txt
 
 Usage:
+
 -Create a .env file in the project root with your API keys
 OPENAI_API_KEY=your_openai_key
 FIRECRAWL_API_KEY=your_firecrawl_key
