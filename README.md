@@ -3,6 +3,7 @@ A Python-based web scraping agent that leverages Firecrawl tools and OpenAI's
 GPT models for advanced website crawling, data extraction, and automation.
 
 Features:
+
 Scrape websites and crawl pages using Firecrawl tools
 Extract structured data from web pages
 Powered by OpenAI GPT-4o-mini for intelligent automation
